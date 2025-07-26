@@ -1,6 +1,6 @@
 # Taxi_driver_analysis
 ## Data
-We have the data from kaggle of NYC Taxi drivers of 2020.
+I have the data from kaggle of NYC Taxi drivers of 2020. I did the analysis on this data.
 
 ## Problem Statement
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness.
